@@ -1,0 +1,12 @@
+.logo {
+    display: block;
+    width: 150px;
+    height: 50px;
+}
+.nameOfMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    min-width: 1000px;
+}

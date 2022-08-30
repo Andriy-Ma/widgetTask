@@ -1,0 +1,13 @@
+.container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+@media (max-width: 1800px) {
+    .container {
+        padding: 0% 5%;
+    }
+ }

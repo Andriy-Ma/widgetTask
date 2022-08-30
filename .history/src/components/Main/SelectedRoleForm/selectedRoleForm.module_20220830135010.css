@@ -1,0 +1,116 @@
+.form{
+    width: 600px;
+    height: 350px;
+    padding: 50px;
+    background-color: #fff;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 0px 25px 49px -12px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.mainText{
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #343A40;
+    letter-spacing: 1px;
+}
+.buttonsChooseForm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+.underText{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #343A40;
+    opacity: .4;
+    letter-spacing: 1px;
+}
+.lowerForm{
+    width: 600px;
+    height: 175px;
+    padding: 50px;
+    background-color: #90F9AD;
+    margin-top: 70px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.guideButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343A40;
+    background-color: #fff;
+    font-weight: 800;
+    padding: 0px 20px;
+    border-radius: 15px;
+    width: 300px;
+    height: 70px;
+}
+.guideButton:hover {
+    background-color: rgb(194, 236, 187);
+    cursor: pointer;
+}
+.guideBox {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    font-size: 20px;
+}
+.guideText {
+    padding-left: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #343A40;
+    line-height: 25px;
+}
+.cancelText{
+    color: #757575;
+    padding-top: 3px;
+    padding-left: 10px;
+    font-weight: 400;
+}
+.buttonText{
+    padding-top: 3px;
+    padding-left: 10px;
+}
+.role {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343A40;
+    background-color: #90F9AD;
+    font-weight: 800;
+    padding: 0px 20px;
+    border-radius: 15px;
+    width: 47%;
+    height: 70px;
+}
+.role:hover {
+    background-color: #3df370;
+    cursor: pointer;
+}
+.cancelButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #343A40;
+    background-color: #f2f2f2a9;
+    font-weight: 800;
+    padding: 0px 20px;
+    border-radius: 15px;
+    width: 30%;
+    height: 70px;
+}
+.cancelButton:hover {
+    cursor: pointer;
+    background-color: #bababaa9;
+}

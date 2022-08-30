@@ -1,0 +1,8 @@
+.container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: azure;
+}

@@ -1,0 +1,11 @@
+.logo {
+    display: block;
+    width: 100px;
+    height: 20px;
+}
+.nameOfMenu {
+    font-size: 1rem;
+    text-decoration: none;
+    color: black;
+    background-color: brown;
+}

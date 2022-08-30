@@ -1,0 +1,48 @@
+.logo {
+    display: block;
+    width: 170px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    min-width: 1000px;
+    height: 80px;
+}
+.middleOfHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+.middleOfHeader a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0px 25px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.buttonsHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.signin {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #90F9AD;
+    background-color: #343A40;
+    padding: 0px 10px;
+    border-radius: 6px;
+    width: 90px;
+    height: 60px;
+}
+.signup {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

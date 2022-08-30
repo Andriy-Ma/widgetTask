@@ -1,0 +1,7 @@
+.container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}

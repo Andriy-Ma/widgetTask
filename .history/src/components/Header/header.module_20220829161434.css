@@ -1,0 +1,9 @@
+.logo {
+    display: block;
+    width: 100px;
+    height: 20px;
+}
+.nameOfMenu {
+    display: flex;
+    justify-content: center;
+}

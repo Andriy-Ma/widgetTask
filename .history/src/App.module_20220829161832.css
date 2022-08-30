@@ -1,0 +1,6 @@
+.container {
+    display: block;
+    align-items: center;
+    max-width: 1350px;
+    background-color: azure;
+}
